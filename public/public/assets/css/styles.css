@@ -1,4 +1,4 @@
-@import "reset.css";
+@import "base.css";
 @import "main.css";
-@import "row.css";
-@import "details.css";
+@import "layout.css";
+@import "modules.css";
